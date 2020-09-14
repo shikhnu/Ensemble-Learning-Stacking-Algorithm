@@ -1,1 +1,1 @@
-# Classification-Coronary-Heart-Disease
+# Ensemble Learning - Stacking Algorithm
